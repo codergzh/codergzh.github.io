@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>codergzh</title>
+  
+  <subtitle>G Z H</subtitle>
+  <link href="https://codergzh.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://codergzh.github.io/"/>
+  <updated>2021-03-01T07:21:14.298Z</updated>
+  <id>https://codergzh.github.io/</id>
+  
+  <author>
+    <name>coder gzh</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>三阶魔方还原公式</title>
+    <link href="https://codergzh.github.io/2021/03/01/san-jie-mo-fang-huan-yuan-gong-shi/"/>
+    <id>https://codergzh.github.io/2021/03/01/san-jie-mo-fang-huan-yuan-gong-shi/</id>
+    <published>2021-02-28T16:00:00.000Z</published>
+    <updated>2021-03-01T07:21:14.298Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;右手公式：上左下右&lt;/p&gt;
+&lt;p&gt;左手公式：上右下左&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;第一层：&quot;&gt;&lt;a href=&quot;#第一层：&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="魔方" scheme="https://codergzh.github.io/categories/%E9%AD%94%E6%96%B9/"/>
+    
+    
+    <category term="三阶魔方" scheme="https://codergzh.github.io/tags/%E4%B8%89%E9%98%B6%E9%AD%94%E6%96%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何免费搭建博客</title>
+    <link href="https://codergzh.github.io/2021/03/01/ru-he-mian-fei-da-jian-bo-ke/"/>
+    <id>https://codergzh.github.io/2021/03/01/ru-he-mian-fei-da-jian-bo-ke/</id>
+    <published>2021-02-28T16:00:00.000Z</published>
+    <updated>2021-03-01T07:12:23.609Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;看到一句话说“博客是一个人的狂欢”，无论是享受搭建的过程，还是享受创作的乐趣，博客更多时候是在取悦自己。当我们在搜索引擎查找相关资料，也会发现很多优质的内容出自于个人博客，经营高品质博客，还能树立个人品牌，结识更多兴趣相投的人……想必，这就是博客依</summary>
+        
+      
+    
+    
+    
+    <category term="博客" scheme="https://codergzh.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="hexo" scheme="https://codergzh.github.io/tags/hexo/"/>
+    
+    <category term="github" scheme="https://codergzh.github.io/tags/github/"/>
+    
+    <category term="Gitee" scheme="https://codergzh.github.io/tags/Gitee/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>金字塔魔方还原公式</title>
+    <link href="https://codergzh.github.io/2021/03/01/jin-zi-ta-mo-fang-huan-yuan-gong-shi/"/>
+    <id>https://codergzh.github.io/2021/03/01/jin-zi-ta-mo-fang-huan-yuan-gong-shi/</id>
+    <published>2021-02-28T16:00:00.000Z</published>
+    <updated>2021-03-01T07:27:46.510Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;下下上上&quot;&gt;&lt;a href=&quot;#下下上上&quot; class=&quot;headerlink&quot; title=&quot;下下上上&quot;&gt;&lt;/a&gt;下下上上&lt;/h3&gt;&lt;h4 id=&quot;先拼黄色面&quot;&gt;&lt;a href=&quot;#先拼黄色面&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="魔方" scheme="https://codergzh.github.io/categories/%E9%AD%94%E6%96%B9/"/>
+    
+    
+    <category term="金字塔魔方" scheme="https://codergzh.github.io/tags/%E9%87%91%E5%AD%97%E5%A1%94%E9%AD%94%E6%96%B9/"/>
+    
+  </entry>
+  
+</feed>
